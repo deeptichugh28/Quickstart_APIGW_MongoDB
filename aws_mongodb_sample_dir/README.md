@@ -32,7 +32,7 @@ This demo, instructions, scripts and cloudformation template is designed to be r
 
 Get the application code
 
-git clone https://github.com/mongodb-partners/Microservice_Application_with_MongoDBAtlas_AWSCDK_APIGW_Lambda.git
+git clone https://github.com/deeptichugh28/Quickstart_APIGW_MongoDB.git
 cd aws_mongodb_sample_dir
 
 
