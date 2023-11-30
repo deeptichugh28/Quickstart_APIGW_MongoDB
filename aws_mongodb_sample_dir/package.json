@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-cdk": "^2.102.0",
+    "awscdk-resources-mongodbatlas": "^1.2.0"
+  }
+}
